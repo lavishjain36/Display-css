@@ -1,23 +1,44 @@
-body{
-    margin-bottom: 300px;
-}
 div{
-    background-color: #686161;
-    text-align: center;
-    padding: 10px;
-    margin: 10px;
-    width: 500px;
+    padding:10px;
+    margin:10px;
 }
 
 
-#rounded-all{
-    border:10px solid red;
-    border-radius: 40px;
+h3{
+    background-color:coral;
+    padding:5px;
+    margin:5px;
+    display:g;
+}
+
+span{
+    background-color:orange;
+    padding:5px;
+    margin:5px;
+    display:block;
+}
+
+a{
+    background-color:rgb(255, 196, 108);
+    color:red;
+    padding:5px;
+    margin:5px;
+    display:block
 
 }
 
-#rounded-two{
-    border:10px solid red;
-    border-top-left-radius: 50px;
-    border-bottom-right-radius: 50px;
+input{
+    outline:none;
+    display:block;
+    padding:5px;
+    gap: 10px;
+}
+
+
+section article{
+    background-color:rgb(255, 35, 127);
+    color:rgb(214, 208, 211);
+    width:500px;
+    display:inline-block;
+    
 }
